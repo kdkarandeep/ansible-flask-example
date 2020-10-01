@@ -1,7 +1,7 @@
 Example Ansible Automation for flask app
 ========================================
 
-This repository is an example that shows how to use ansible-test. In addition, it is written in the style of using wrapper roles. For more information, see our blog post at: LINK HERE
+This repository is an example that shows how to use ansible-test. In addition, it is written in the style of using wrapper roles. For more information, see our blog post at: LINK HERE---
 
 Getting Started
 ---------------
